@@ -9,4 +9,4 @@
 **Build:**
 
 1. `npm i`
-2. `npm build`
+2. `npm run build`
